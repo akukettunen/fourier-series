@@ -1,4 +1,5 @@
-# fourier-series
+# Fourier series visualisation
+
 Javascript code with p5.js package to visualize 
 estimating a square function with Fourier-series.
 
